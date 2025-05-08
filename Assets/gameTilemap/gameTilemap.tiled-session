@@ -1,0 +1,49 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/61470/Downloads/untitled.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "C:/Users/61470/Downloads/untitled.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 184.75,
+                "y": 79.75
+            }
+        },
+        "TinyDungeon.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "TinyDungeon_TileSet.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/61470/Documents/comp1151prac-tilemapgame-efojw/Assets/gameTilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "C:/Users/61470/Downloads/untitled.tmx",
+        "TinyDungeon_TileSet.tsx"
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "TinyDungeon_TileSet.tsx",
+        "C:/Users/61470/Downloads/untitled.tmx",
+        "TinyDungeon.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
